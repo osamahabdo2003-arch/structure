@@ -1,4 +1,4 @@
-# 🚀 System Dashboard & Project Management Hub
+#  System Dashboard & Project Management Hub
 
 نظام متكامل لإدارة اللوحات، المتابعة التقنية، الكاميرات، وتوثيق المهام، مبني باستخدام إطار العمل **Flask** وقاعدة بيانات **SQLite** مع دعم للذكاء الاصطناعي والمراسلات التلقائية المجدولة[cite: 1, 2].
 
